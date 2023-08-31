@@ -2,3 +2,6 @@
 <br>
 <br>
 [ENG] Crypto currency converter
+<br>
+<br>
+[PT-BR] Conversor de cripto moeda
